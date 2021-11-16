@@ -1,0 +1,22 @@
+{
+  "name": "bonk-img-api",
+  "version": "0.1.0",
+  "description": "Returns a random bonk image",
+  "main": "bonk_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alylamppuvegaanit/bonk-img-api.git"
+  },
+  "keywords": [
+    "bonk"
+  ],
+  "author": "sjaks@github",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alylamppuvegaanit/bonk-img-api/issues"
+  },
+  "homepage": "https://github.com/Alylamppuvegaanit/bonk-img-api#readme"
+}
